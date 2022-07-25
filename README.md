@@ -40,6 +40,7 @@ Up until now, I exclusively tested this on Linux (Pop-OS). If this results in is
 ## color_palate:
 
 Calling this function echos the color palette with all available colors and the corresponding numbers. 
+
 The output should look something like this:
 
 ![image](https://user-images.githubusercontent.com/81306399/180854560-dda9569a-e40e-4f4e-81fd-5c8b3b7f6415.png)
