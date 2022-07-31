@@ -24,7 +24,7 @@ text = 'This is normal, ' + highlighted('this is highlighted') + ' and this agai
 
 Tools.bashprint(text)
 ```
-The output of should look something like this:
+The output of this should look something like this:
 
 ![image](https://user-images.githubusercontent.com/81306399/180852738-c9024a16-e68d-46d9-86bc-ee18d97ed8ec.png)
 
